@@ -13,7 +13,7 @@ The editor ships in this repository as the end-to-end consumer.
 
 [![indigo editor](docs/editor.png)](https://matthewberger.dev/indigo/)
 
-[Editor in the browser](https://matthewberger.dev/indigo/editor/) (WebGPU required).
+[Editor in the browser](https://matthewberger.dev/indigo/) (WebGPU required).
 
 Architecture notes are in [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
 
